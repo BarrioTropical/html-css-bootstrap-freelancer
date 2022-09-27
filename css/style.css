@@ -15,6 +15,7 @@ body{
 
 .bg-green{
     background-color: var(--green);
+    color: var(--white);
 }
 
 .bg-grey{
@@ -46,7 +47,6 @@ header{
 /* Hero Section */
 #hero{
     margin-top: 90px;
-    color: var(--white);
 }
 
 .img .avatar{
@@ -56,6 +56,11 @@ header{
 
 
 /* Portfolio Section */
+.card-portfolio{
+    width: 100%;
+    height: 300px;
+    border-radius: 10px;
+}
 
 /* About Section */
 
@@ -66,3 +71,6 @@ header{
 /* Top Footer Section */
 
 /* Sub Footer */
+#sub-footer{
+    color: var(--white);
+}
