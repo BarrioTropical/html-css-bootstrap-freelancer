@@ -67,10 +67,10 @@ header{
 /* Contact Section */
 
 /* Footer */
+footer{
+    color: var(--white);
+}
 
 /* Top Footer Section */
 
 /* Sub Footer */
-#sub-footer{
-    color: var(--white);
-}
